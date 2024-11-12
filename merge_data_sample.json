@@ -1,0 +1,114 @@
+[
+	{
+		"GameName" : 게이머의 아이디
+		"matches" : [
+			{
+				"matchID" : ,
+				"gameCreation" : ,
+				"gameDuration" : ,
+				"riotIdGameName" : ,
+				"participantId" : ,
+				"opponentRiotIdGameName" : ,
+				"oppoenetParticipantId" : ,
+				"targetTeamId" : ,
+				"targetWin" : ,
+				"at14" : {
+					"gameDuration" : ,
+					"combat" : {
+						"killsRatio" : ,
+						"deathsRatio" : ,
+						"assistsRatio" : ,
+						"solokillsRatio" : ,
+						"solodeathsRatio" : ,
+						"dpm" : ,
+						"dtpm" : ,
+						"targetKDA" : {
+							"kills" : ,
+							"deaths" : ,
+							"assists" :
+                        }
+						"targetSoloKD" : {
+							"solokills" : ,
+							"solodeaths" :
+                        }
+						"opponentKDA" : {
+							"kills" : ,
+							"deaths" : ,
+							"assists" :
+						}
+						"opponentSoloKD" : {
+							"solokills" : ,
+							"solodeaths" :
+                        }
+					},
+                    "manage" : {
+                        "cspm" : ,
+                        "gpm" : ,
+                        "xpm" : ,
+                        "dpd" : ,
+                        "dpg" :
+                    },
+                    "diff" : {
+                        "dpm" : ,
+                        "dtpm" : ,
+                        "cspm" : ,
+                        "gpm" : ,
+                        "xpm" : ,
+                        "dpd" : ,
+                        "dpg" :
+                    }
+				},
+                "af14" : {
+					"gameDuration" : ,
+					"combat" : {
+						"killsRatio" : ,
+						"deathsRatio" : ,
+						"assistsRatio" : ,
+						"solokillsRatio" : ,
+						"solodeathsRatio" : ,
+						"dpm" : ,
+						"dtpm" : ,
+						"targetKDA" : {
+							"kills" : ,
+							"deaths" : ,
+							"assists" :
+                        }
+						"targetSoloKD" : {
+							"solokills" : ,
+							"solodeaths" :
+                        }
+						"opponentKDA" : {
+							"kills" : ,
+							"deaths" : ,
+							"assists" :
+						}
+						"opponentSoloKD" : {
+							"solokills" : ,
+							"solodeaths" :
+                        }
+					},
+                    "manage" : {
+                        "cspm" : ,
+                        "gpm" : ,
+                        "xpm" : ,
+                        "dpd" : ,
+                        "dpg" :
+                    },
+                    "diff" : {
+                        "dpm" : ,
+                        "dtpm" : ,
+                        "cspm" : ,
+                        "gpm" : ,
+                        "xpm" : ,
+                        "dpd" : ,
+                        "dpg" :
+                    }
+				}
+			},
+            {
+            }
+		]
+	},
+	{
+	},
+]
